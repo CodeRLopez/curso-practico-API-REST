@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest",
+  "version": "1.0.0",
+  "description": "Proyecto del Curso Practico de Consumo API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRLopez/curso-practico-API-REST.git"
+  },
+  "author": "CodeRLopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeRLopez/curso-practico-API-REST/issues"
+  },
+  "homepage": "https://github.com/CodeRLopez/curso-practico-API-REST#readme"
+}
